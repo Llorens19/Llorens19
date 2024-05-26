@@ -49,7 +49,7 @@ console.log(me.toString());
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologías 🚀</h2></summary>
+    <summary><h2 style="display: inline-block">Lenguajes, Tecnologías y Herramientas🚀</h2></summary>
   </ul>
 </div>
 
