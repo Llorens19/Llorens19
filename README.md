@@ -24,8 +24,6 @@ class Llorens19 {
         this.location = "Valencia, España";
         this.state =["Estudiando DAW", "Trabajando"];
         this.studies = ["DAW", "RI"];
-        this.languages = ["Java", "JavaScript","PHP", "Python", "C++", "C#", "HTML", "CSS"];
-        this.db = ["MySQL", "MongoDB"];
         this.hobbies = ["Montaña", "Motociclismo", "Mecánica"];
     }
     toString() {
