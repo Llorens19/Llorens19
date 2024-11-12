@@ -39,10 +39,11 @@ console.log(me.toString());
   </ul>
 </div>
 
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-     <img> <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Llorens19&show_icons=true&theme=dark&hide_border=false&no-bg=true&no-frame=true&count_private=true&include_all_commits=true" />
-    </a>
+
+<div align="center">
+  <a href="https://github.com/Llorens19">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Llorens19&show_icons=true&theme=tokyonight" />
+  </a>
 </div>
 
 <div id="user-content-toc">
