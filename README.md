@@ -8,21 +8,20 @@
 </div>
 <hr>
 
-
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Acerca de mi 📜</h2></summary>
   </ul>
 </div>
 
-```javascript	
+```javascript
 class Llorens19 {
     constructor() {
         this.name = "Diego";
         this.username = "Llorens Soriano";
         this.age = 23;
         this.location = "Valencia, España";
-        this.state =["Estudiando DAW", "Trabajando"];
+        this.state = ["Estudiando DAW", "Trabajando"];
         this.studies = ["DAW", "RI"];
         this.hobbies = ["Montaña", "Motociclismo", "Mecánica"];
     }
@@ -33,16 +32,25 @@ class Llorens19 {
 const me = new Llorens19();
 console.log(me.toString());
 ```
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2>Estadísticas 📊</h2></summary>
   </ul>
 </div>
 
-
 <div align="center">
   <a href="https://github.com/Llorens19">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Llorens19&show_icons=true&theme=tokyonight" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Llorens19">
+   <!--START_SECTION:waka-->
+   
+  <!--END_SECTION:waka-->
+
   </a>
 </div>
 
@@ -52,16 +60,10 @@ console.log(me.toString());
   </ul>
 </div>
 
-
-
-
-
 <p align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=java,javascript,php,python,cpp,cs,html,css,mysql,mongodb,visualstudio,vscode,eclipse,git&c=5&bg=transparent" />    
     </a>
 </p>
-
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
