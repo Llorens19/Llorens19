@@ -52,8 +52,12 @@ console.log(me.toString());
 </div>
 
   <!--START_SECTION:waka-->
-   
-  <!--END_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
 
 <div id="user-content-toc">
   <ul align="center">
