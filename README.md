@@ -48,8 +48,12 @@ console.log(me.toString());
 <div align="center">
   <a href="https://github.com/Llorens19">
   <!--START_SECTION:waka-->
-   
-  <!--END_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
 
   </a>
 </div>
