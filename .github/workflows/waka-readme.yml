@@ -2,7 +2,7 @@ name: Actualizar métricas de lenguajes
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '0 0 * * *'
   push:
     branches:
       - main
