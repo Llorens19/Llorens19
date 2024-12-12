@@ -45,14 +45,15 @@ console.log(me.toString());
   </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/Llorens19">
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Lenguajes más usados </h2></summary>
+  </ul>
+</div>
+
   <!--START_SECTION:waka-->
    
   <!--END_SECTION:waka-->
-
-  </a>
-</div>
 
 <div id="user-content-toc">
   <ul align="center">
