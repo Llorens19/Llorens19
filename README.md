@@ -19,11 +19,11 @@ class Llorens19 {
     constructor() {
         this.name = "Diego";
         this.username = "Llorens Soriano";
-        this.age = 23;
+        this.age = 24;
         this.location = "Valencia, España";
-        this.state = ["Estudiando DAW", "Trabajando"];
+        this.state = ["Trabajando"];
         this.studies = ["DAW", "RI"];
-        this.hobbies = ["Montaña", "Motociclismo", "Mecánica"];
+        this.hobbies = ["Montaña", "Motociclismo", "Mecánica", "Electrónica"];
     }
     toString() {
         return this.name;
